@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TutorialAPI-DotNet.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YIJu4rmVVTYtsmJ1laoWKcXIQYcKn6KAkbtJuAV5g1g=",
+  "Source": "TutorialAPI-DotNet",
+  "BasePath": "_content/TutorialAPI-DotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\dto\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\dto\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\tutorialapi-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\tutorialapi-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\migrations\\20240801114522_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\migrations\\20240801114522_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\tutorialapi-dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\tutorialapi-dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|c:\\users\\niels poelder\\source\\repos\\tutorialapi-dotnet\\tutorialapi-dotnet\\migrations\\20240802085913_initial-two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C67F3A-9E3C-498C-A73B-66B373BC465C}|TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj|solutionrelative:tutorialapi-dotnet\\migrations\\20240802085913_initial-two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\DTO\\StudentRequest.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\DTO\\StudentRequest.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\DTO\\StudentRequest.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\DTO\\StudentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:17:59.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240802085913_Initial-Two.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Migrations\\20240802085913_Initial-Two.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Migrations\\20240802085913_Initial-Two.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Migrations\\20240802085913_Initial-Two.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Migrations\\20240802085913_Initial-Two.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:59:13.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T11:48:04.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\appsettings.json",
+              "RelativeToolTip": "TutorialAPI-DotNet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T11:29:02.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Program.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Program.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Program.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:37:44.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:47:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:38:15.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Entities\\Student.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:45:19.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:09:39.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240801114522_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Migrations\\20240801114522_Initial.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Migrations\\20240801114522_Initial.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Migrations\\20240801114522_Initial.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Migrations\\20240801114522_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:45:22.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TutorialAPI-DotNet.csproj",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj",
+              "RelativeToolTip": "TutorialAPI-DotNet\\TutorialAPI-DotNet.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T11:29:00.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TutorialAPI-DotNet.http",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\TutorialAPI-DotNet.http",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\TutorialAPI-DotNet.http",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\TutorialAPI-DotNet.http",
+              "RelativeToolTip": "TutorialAPI-DotNet\\TutorialAPI-DotNet.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-31T10:42:10.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\Data\\DataContext.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:44:42.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TutorialAPI-DotNet\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Niels Poelder\\source\\repos\\TutorialAPI-DotNet\\TutorialAPI-DotNet\\WeatherForecast.cs",
+              "RelativeToolTip": "TutorialAPI-DotNet\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:42:11.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
